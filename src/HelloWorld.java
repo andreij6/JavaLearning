@@ -16,6 +16,9 @@ public class HelloWorld {
 		String s = new String(chars);
 		System.out.println(s);  //Hello!
 		
+		Numbers number = new Numbers();
+		number.printPayment();
+		
 
 	}
 	
